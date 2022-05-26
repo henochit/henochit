@@ -15,7 +15,7 @@ Hi, i'm [Henock Tshibanda](https://protofolio-henochit.vercel.app/), I'm a fulls
 I am also a free software enthusiast and contributor. I have a lot of the open source community and love how the collaboration and knowledge sharing has happened through open source.
 
 
-  <img align="right" src="https://protofolio-henochit.vercel.app/assets/img/me.jpeg" width="350" height="350" />
+  <img src="https://protofolio-henochit.vercel.app/assets/img/me.jpeg" width="350" height="350" />
   
   <br />
   <br />
