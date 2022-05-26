@@ -12,7 +12,7 @@
 
 Hi, i'm [Henock Tshibanda](https://protofolio-henochit.vercel.app/), I'm a fullstack web developer. I enjoy modeling the solutions to real problems producing quality code.
 
-I am also a free software enthusiast and contributor. I have a lot of the open source community and love how the collaboration and knowledge sharing has happened through open source.
+I am also a free software enthusiast and contributor. I'm in several open source communities and love how collaboration and knowledge sharing happens through open source.
 
 
   <img src="https://protofolio-henochit.vercel.app/assets/img/me.jpeg" width="350" height="350" />
