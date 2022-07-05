@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">
+### Hey there 👋
 <a href="https://twitter.com/TshibandaHenock">
   <img align="left" alt="Henock Tshibanda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -14,7 +14,7 @@ Hi, i'm [Henock Tshibanda](https://protofolio-henochit.vercel.app/), I'm a fulls
 
 I am also a free software enthusiast and contributor. I'm in several open source communities and love how collaboration and knowledge sharing happens through open source.
 
-<a href="https://app.daily.dev/henochit"><img src="https://github.com/henochit/henochit/blob/main/devcard.svg" width="200" alt="Henock's Dev Card" /></a>
+<a href="https://app.daily.dev/henochit"><img src="https://github.com/henochit/henochit/blob/main/devcard.svg" width="350" alt="Henock's Dev Card" /></a>
   
   <br />
   <br />
