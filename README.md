@@ -1,9 +1,9 @@
 ### Hey there 👋
 <a href="https://twitter.com/TshibandaHenock">
-  <img align="left" alt="Henock Tshibanda | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  Twitter
 </a>
 <a href="https://www.linkedin.com/in/henock-tshibanda-56ba88158/">
-  <img align="left" alt="Henock's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linkedin
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=henochit/henochit)
