@@ -1,10 +1,4 @@
 ### Hey there 👋
-<a href="https://twitter.com/TshibandaHenock">
-  Twitter
-</a>
-<a href="https://www.linkedin.com/in/henock-tshibanda-56ba88158/">
-  Linkedin
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=henochit/henochit)
 
@@ -16,6 +10,17 @@ I am also a free software enthusiast and contributor. I'm in several open source
 
 <a href="https://app.daily.dev/henochit"><img src="https://github.com/henochit/henochit/blob/main/devcard.svg" width="350" alt="Henock's Dev Card" /></a>
   
+  <br />
+  <br />
+
+
+<a href="https://twitter.com/TshibandaHenock">
+  Twitter
+</a>
+<a href="https://www.linkedin.com/in/henock-tshibanda-56ba88158/">
+  Linkedin
+</a>
+
   <br />
   <br />
   
